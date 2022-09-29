@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/kombu-batteries-included) to Huma organisation as part of change in asset ownership 
 # Kombu Batteries Included
 
 This library extends the `kombu` base package, and includes:
